@@ -5,14 +5,15 @@
 
 ## <img align="center" src="https://github-readme-stats.vercel.app/api?username=ailton-felix&count_private=true&show_icons=true&theme=merko" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-felix&exclude_repo=FwBoarding&theme=merko&layout=default" />
 
-### 👷 I’m currently working at
+## 👷 I’m currently working at
   - <a style="max-width: 181px;" href="https://www.handtalk.me/br">
     <img class="avatar mr-1" alt="" height="20" width="20" src="https://avatars.githubusercontent.com/u/23121478?s=60&amp;v=4">
     Hand Talk as Pleno Data Scientist 
     </a>
 
 
-### 👯 Open Source contributions
+
+## 👯 Open Source contributions
 
 *I always try to contribute to the projects I use*
 - 🍒 [Cereja](https://github.com/cereja-project/cereja)
