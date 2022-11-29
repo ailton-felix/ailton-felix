@@ -4,7 +4,7 @@
 - [![Gmail Badge](https://img.shields.io/badge/-afdlf2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afdlf2@gmail.com)](mailto:afdlf2@gmail.com)
 
 <!-- ## <img align="center" src="https://github-readme-stats.vercel.app/api?username=ailton-felix&count_private=true&show_icons=true&theme=merko" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-felix&exclude_repo=FwBoarding&theme=merko&layout=default" /> -->
-## <img align="center" src="https://github-readme-stats.vercel.app/api?username=ailton-felix&count_private=true&show_icons=true&theme=merko" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-felix&theme=merko&layout=default" />
+## <img align="center" src="https://github-readme-stats.vercel.app/api?username=ailton-felix&count_private=true&show_icons=true&theme=merko" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-felix&count-private=true&exclude_repo=FwBoarding&theme=merko&layout=default" />
 
 ## 👷 I’m currently working at
   - <a style="max-width: 181px;" href="https://www.handtalk.me/br">
