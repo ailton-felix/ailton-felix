@@ -4,7 +4,7 @@
 - [![Gmail Badge](https://img.shields.io/badge/-afdlf2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afdlf2@gmail.com)](mailto:afdlf2@gmail.com)
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-felix&theme=merko&layout=compact" />
+  <img align="center" src="https://github-readme-stats-ailton-felixs-projects.vercel.app/api/top-langs/?username=ailton-felix&theme=merko&layout=compact" />
 </a>
 
 ## 👷 I’m currently working at
