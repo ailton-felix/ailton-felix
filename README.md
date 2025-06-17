@@ -8,12 +8,17 @@
 </a>
 
 ## 👷 I’m currently working at
+  - <a style="max-width: 181px;" href="https://beyondcompany.com.br/">
+    Beyond as Tech Lead
+    </a>
+
+## 📚 Places I have worked
   - <a style="max-width: 181px;" href="https://www.handtalk.me/br">
     <img class="avatar mr-1" alt="" height="20" width="20" src="https://avatars.githubusercontent.com/u/23121478?s=60&amp;v=4">
     Hand Talk as Senior Data Scientist 
     </a>
     
-## 👯 Open Source contributions
+## 💡 Open Source contributions
 
 *I always try to contribute to the projects I use*
 - <a style="max-width: 181px;" href="https://github.com/tensorflow">
